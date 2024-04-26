@@ -79,4 +79,4 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 
-Início dos estudos em React Native, tentativa de criar aplicativo de controle financeiro.
+Início dos estudos em React Native, tentativa de criar aplicativo de controle financeiro. Instalação de Android Studio.
